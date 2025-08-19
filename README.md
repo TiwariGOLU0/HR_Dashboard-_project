@@ -1,0 +1,1 @@
+The objective of this project is to analyze and visualize employee-related data to help the HR department make data-driven decisions. The dashboard provides insights into workforce distribution, attrition trends, diversity ratio, and performance indicators, enabling HR leaders to identify key issues and improve organizational efficiency.
